@@ -1,6 +1,9 @@
-This project was an e-commerce web app developed in a django course for studies purpose, and also my first contact with the framework.
+(This is a preview version only, whereas the final version with all the functionalities and styles is not ready yet)
+This project is a simple e-commerce web app being developed from django tutorials I'm using to study, and also my first contact with the framework.
 
 Using django rest framework, a Rest API was built, and for the front-end, Vue.js was used.
+
+It is possible to add categories and products with images and detailed descriptions on django admin page.
 
 Home page
 ![home](https://user-images.githubusercontent.com/98843691/219846172-728744a5-0719-4c7f-bf8a-c1792be87f2b.jpg)
