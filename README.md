@@ -1,2 +1,2 @@
 # Web-development
-Studies web development projects
+Web development studies projects
